@@ -16,8 +16,11 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 <p align="center">
-    <img src="https://github.com/avikola/spongebob-meme-generator/blob/master/meme.jpg" alt="SpongeBob Meme" />
+    <img src="https://github.com/avikola/spongebob-meme-generator/blob/master/meme.jpg" width="300" alt="SpongeBob Meme" />
   </a>
 </p>
